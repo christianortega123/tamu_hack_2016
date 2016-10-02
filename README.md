@@ -11,6 +11,13 @@ Alexis Maldonado
 Christian Ortega 
 Noah Ortega
 
+NOTES:
+
+install praw
+install oauthutil
+install pip IBM Waton Tone Analyzer
+
+
 Introduction:
 
 Everyday millions of people use the internet for various purposes, much of which involves user-to-user interaction that includes social media websites such as Facebook, Twitter, Youtube, and chat functions of video games. Although there are many nice people on the internet, there are many who are not and turn to cyberbullying -- an unacceptable act that must be dealt with.
